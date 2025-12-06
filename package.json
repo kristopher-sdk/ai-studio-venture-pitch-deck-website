@@ -1,0 +1,22 @@
+{
+  "name": "ai-studio-ventures",
+  "version": "1.0.0",
+  "description": "AI Studio Ventures - Building Tomorrow's Unicorns",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "ai",
+    "venture-studio",
+    "startups"
+  ],
+  "author": "Kristopher & Leticia Zecca Ross",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
